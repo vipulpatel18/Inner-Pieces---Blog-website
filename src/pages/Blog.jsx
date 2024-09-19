@@ -1,5 +1,5 @@
 import { useState } from "react";
-import BlogContent from "../components/blogContent";
+import BlogContent from "../components/BlogContent";
 
 export default function Blog() {
   const blogData =[
